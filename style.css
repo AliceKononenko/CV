@@ -81,7 +81,7 @@ h4 {
     color: white;
 }
 .allInformation {
-    background-color: rgb(177, 174, 174);
+    background-color: rgb(224, 219, 219);
 }
 .name_specialty_block {
     background-color: #03674f;   
@@ -89,14 +89,14 @@ h4 {
     vertical-align: middle; 
     text-align: center;
     padding-top: 10px;
+    color: white;
 }
 .personName {
     font-size: 48px;
-    color: white;
 }
 .specialtyName {
     font-size: 32px;
-    color: black;
+    margin-top: 20px;
 }
 .information {
     margin: 20px;
